@@ -25,5 +25,9 @@ If the quantity is within current stock levels the user will receive a prompt le
 
 <img width="821" alt="salecomplete" src="https://user-images.githubusercontent.com/35053108/40216641-f2985adc-5a35-11e8-8374-353f5ad003d5.png">
 
+Database was updated - 
+
+<img width="580" alt="updatedinsql" src="https://user-images.githubusercontent.com/35053108/40216762-b95d8e12-5a36-11e8-901a-6212193b699d.png">
+
 ### Future development
 I was a bit pressed for time in making this so in the future I would like to add some functionality to this. As of now there is just a customer level experience. I would like to add manager and supervisor level experiences. The manager level would be able to add to inventory levels and add new products. The supervisor level would be able to create entire departments, view cost overheads, and calculate the most profitable departments based on sales and overheads. 
