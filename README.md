@@ -9,7 +9,11 @@ Using inquirer the app will prompt the user to select an item id.
 
 <img width="1004" alt="purchaseprompt" src="https://user-images.githubusercontent.com/35053108/40216404-6c169484-5a34-11e8-8b80-675b2018994c.png">
 
-If the item id does not exist the user will be alerted and the inventory will be redisplayed with the prompt to select an item id. Once the user selects an appropriate item id the app will prompt the user for a quantity. If the quanity is higher than current stock levels the user will receive an alert. If the quantity is within current stock levels the user will receive a prompt letting them know how much their transaction cost. 
+If the item id does not exist the user will be alerted and the inventory will be redisplayed with the prompt to select an item id. 
+
+<img width="723" alt="nocarryalert" src="https://user-images.githubusercontent.com/35053108/40216479-e3479eb8-5a34-11e8-92d5-c5164f1e8ce3.png">
+
+Once the user selects an appropriate item id the app will prompt the user for a quantity. If the quanity is higher than current stock levels the user will receive an alert. If the quantity is within current stock levels the user will receive a prompt letting them know how much their transaction cost. 
 
 ### Future development
 I was a bit pressed for time in making this so in the future I would like to add some functionality to this. As of now there is just a customer level experience. I would like to add manager and supervisor level experiences. The manager level would be able to add to inventory levels and add new products. The supervisor level would be able to create entire departments, view cost overheads, and calculate the most profitable departments based on sales and overheads. 
