@@ -63,7 +63,7 @@ function pickAmount(product) {
         .then(function (val) {
             var amount = parseInt(val.amount);
             if (amount > product.quantity) {
-                console.log('Sorry. Insufficient quantity!');
+                console.log('\nSorry. Insufficient quantity!\n');
                 startApp();
             }
             else {
